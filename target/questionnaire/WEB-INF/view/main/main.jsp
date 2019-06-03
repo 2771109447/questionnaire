@@ -148,7 +148,7 @@
             </c:choose>
         </table>
         <div id = "send" class="input-group">
-            <input id="message" class="form-control" placeholder="还有什么补充吗?" name="message" value="张三">
+            <input id="message" class="form-control" placeholder="请问您还有什么其他意见?" name="message" value="张三">
             <input type="hidden" name="mainId" value="${requestScope.map.main.mainId}"/>
             <span class="input-group-btn"><button type="submit" class="btn btn-primary" onclick="return tijiao();" >交卷</button></span>
 

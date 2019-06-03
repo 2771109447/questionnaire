@@ -9,9 +9,9 @@
     String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
 %>
 <div class="container" style="padding-top: 45px;">
-    <div class="row">
-        <div class="col-sm-12 col-md-12 col-lg-12">
-            <nav class="navbar navbar-default">
+    <div class="row ">
+        <div class="col-sm-12 col-md-12 col-lg-12 ">
+            <nav class="navbar navbar-default ">
                 <div class="container-fluid">
                     <div class="navbar-header">
                         <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
