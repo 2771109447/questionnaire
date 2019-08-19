@@ -1,8 +1,3 @@
 # questionnaire
-问卷调查系统（ssm+shiro）
-
-windows10/centos7环境：
-JDK 1.8
-tomcat 8.5.3
-maven 3.6.0
-mysql 8.1.7
+## 问卷调查权限管理系统（ssm+shiro）
+问卷调查系统是一款基于不同用户角色参与不同系统功能的问卷调查平台，此系统分为两大模块，一模块是<b>问卷调查</b>，另一模块是<b>权限管理</b>，             
